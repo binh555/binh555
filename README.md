@@ -27,7 +27,6 @@ I have experience working with sensors, control systems, warning systems, and em
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
 ### Embedded & IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=ffffff)
@@ -96,12 +95,6 @@ Seeking internship opportunities in:
 - R&D Engineering
 
 Looking forward to improving my embedded programming, debugging, and real-world product development skills in a professional environment.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
 
 ---
 
