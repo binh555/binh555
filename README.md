@@ -107,6 +107,6 @@ Looking forward to improving my embedded programming, debugging, and real-world 
 
 ## 📫 Contact
 
-- Email: YOUR_EMAIL
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: leebinh921@gmail.com
+- GitHub: https://github.com/binh555
+- LinkedIn: https://www.linkedin.com/in/lee-binh-83510b3b9/
