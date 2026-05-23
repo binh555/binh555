@@ -62,7 +62,7 @@ I have experience working with sensors, control systems, warning systems, and em
 - Worked with PWM, GPIO, and embedded control algorithms.
 - Technologies: `C/C++`, `STM32`, `Sensors`, `Motor Driver`
 
-### ⚠️ Gas Leakage Warning System
+### ⚠️ Gas Leakage Warning System (Not Available Yet)
 - Built a gas detection and warning system using gas sensors.
 - Triggered LED and buzzer alerts when gas exceeded threshold levels.
 - Designed signal processing and alert logic.
